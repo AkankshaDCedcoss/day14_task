@@ -48,13 +48,15 @@ h1{
 {
     float: left;
     color: white;
+    width: 40%;
 }
 .div3
 {
     float: left;
     margin-left: 15px;
     color: white;
-
+    width: 40%;
+   
 }
 .div4
 {
@@ -98,11 +100,12 @@ width: 50px;
 
 }
 .content
-{ width: 992px;
+{ width: 1300px;
     margin-left: 120px;
     background: linear-gradient(#fff,#d9ddeb);
     overflow: hidden;
     padding-left: 20px;
+    padding-bottom: 50px;
 }
 .create-account h2{
     font-size: 40px;
@@ -125,6 +128,8 @@ width: 50px;
     margin-top: 50px;
     width:50%;
     float: left;
+    margin-left: 30px;
+
 }
 .connect img{
     margin-top: 1%;
@@ -137,7 +142,9 @@ width: 50px;
 .create-account
 {
     float: left;
-    width:50%;
+    width:40%;
+    margin-left: -80px;
+    margin-top: 50px;
    
    
 }
@@ -212,6 +219,6 @@ margin-bottom: 15px;
 {
     margin-left: 20px;
 }
-    
+ 
     
     
